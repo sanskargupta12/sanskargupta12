@@ -1,4 +1,4 @@
-### Hi there everyone👋
+### Hi there 👋
 
 <img width="28%" align="right" alt="Github" src="https://sciencewithshobha.co.in/wp-content/uploads/2022/06/output-onlinegiftools.gif" />
 
