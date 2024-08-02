@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-<!-- <img width="38%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/28/36/802836ac68385132474a8839e7f654f6.gif"/>  -->
-<img width="40%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" />
-
+ <img width="38%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/28/36/802836ac68385132474a8839e7f654f6.gif"/>  
+<!-- <img width="40%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" />-->
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Sage Unversity.
