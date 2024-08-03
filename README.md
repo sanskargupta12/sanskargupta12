@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- <img width="40%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-laptop-2741035-2280943.png"/>--> 
- <img width="40%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" />
+ <img width="45%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" />
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Sage Unversity.
