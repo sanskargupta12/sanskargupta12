@@ -1,8 +1,7 @@
 ### Hi there 👋
  <img width="40%" align="right" alt="Github" src="https://i.ibb.co/z8Qqf9W/sapiens.png"/>
  <!--<img width="45%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" /> -->
-As a passionate computer science student at Sage University, I thrive on writing efficient code, solving complex problems, automating tedious tasks, and building innovative software solutions. My academic journey has not only deepened my understanding of computer science fundamentals but also ignited a desire to explore various fields within the industry.
-
+Passionate about crafting clean, scalable, and efficient software solutions, I enjoy solving complex problems and bringing innovative ideas to life. With a strong focus on automation, performance, and user experience, I constantly explore emerging technologies to stay ahead in the ever-evolving tech landscape. Driven by curiosity and a growth mindset, I aim to create impactful solutions that truly make a difference.
 
 - 🔭 I’m currently a CS student at Sage Unversity.
 - 📚 I’m currently exploring in different fields like java development, web development and app development.
