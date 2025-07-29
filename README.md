@@ -3,7 +3,6 @@
  <!--<img width="45%" align="right" alt="Github" src="https://i.ibb.co/0X4XqkM/man-works-computer-illustration-333239-259-removebg-preview.png" /> -->
 Passionate about crafting clean, scalable, and efficient software solutions, I enjoy solving complex problems and bringing innovative ideas to life. With a strong focus on automation, performance, and user experience, I constantly explore emerging technologies to stay ahead in the ever-evolving tech landscape. Driven by curiosity and a growth mindset, I aim to create impactful solutions that truly make a difference.
 
-- 🔭 I’m currently a CS student at Sage Unversity.
 - 📚 I’m currently exploring in different fields like java development, web development and app development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sanskar-gupta-317482250) [Gmail](mailto:sanskarg106@gmail.com)
 <!-- - 👯 I’m looking for a software development internship. -->
