@@ -1,9 +1,13 @@
-### Hi there 👋
+ ### Hi there 👋
  <!-- <img width="40%" align="right" alt="Github" src="https://i.ibb.co/z8Qqf9W/sapiens.png"/> -->
-  <img width="50%" height="50%" align="right" alt="Github" src="https://i.ibb.co/dJ5GvXhs/794da6151724867-63121ecd9e4c9-removebg-preview.png"/>
-Passionate about crafting clean, scalable, and efficient software solutions, I enjoy solving complex problems and bringing innovative ideas to life. With a strong focus on automation, performance, and user experience, I constantly explore emerging technologies to stay ahead in the ever-evolving tech landscape. Driven by curiosity and a growth mindset, I aim to create impactful solutions that truly make a difference.
 
-- 📚 I’m currently exploring in different fields like java development, web development and app development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sanskar-gupta-317482250) [Gmail](mailto:sanskarg106@gmail.com)
-<!-- - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanskargupta12&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+<img width="45%" height="85%" align="right" alt="Coding" src="https://i.ibb.co/Gfg3Xjs0/81d0ae0524ae1316c4c05bd22476b88d-removebg-preview.png"/>
 
+Passionate about building **scalable full-stack applications** and driving **DevOps automation**, I enjoy solving complex problems and turning ideas into impactful solutions. My work blends **frontend precision, backend efficiency, and cloud-native practices** to deliver robust, user-centric products.  
+
+- 🚀 Skilled in **JavaScript, React, Node.js, Express, and modern DevOps workflows**  
+- 🔧 Experienced with **CI/CD, Docker, and cloud platforms (AWS, Azure)**  
+- 🌍 Strong focus on **performance, automation, and user experience**  
+- 📚 Continuously exploring new tools and technologies to stay ahead in the evolving tech landscape  
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sanskar-gupta-317482250) | [Gmail](mailto:sanskarg106@gmail.com)
