@@ -10,4 +10,4 @@ Passionate about building **scalable full-stack applications** and driving **Dev
 - 🌍 Strong focus on **performance, automation, and user experience**  
 - 📚 Continuously exploring new tools and technologies to stay ahead in the evolving tech landscape  
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sanskar-gupta-317482250) | [Gmail](mailto:sanskarg106@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sanskargupta12/) | [Gmail](mailto:sanskarg106@gmail.com)
